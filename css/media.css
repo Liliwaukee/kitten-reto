@@ -1,0 +1,17 @@
+@media all and (max-width: 880px) {
+    body {
+          background-image:url("../img/sunny-day.jpg");
+    }
+    img {
+      content:url("../img/kitten-medium.png");
+    }
+}
+
+@media all and (max-width: 540px) {
+    body {
+          background-image:url("../img/night.jpg");
+    }
+    img {
+      content:url("../img/kitten-small.png");
+    }
+}
